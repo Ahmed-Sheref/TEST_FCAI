@@ -5,7 +5,7 @@
 #define for2(x2) for(ll j = 0; j < x2; j++)
 #define for3(vc_1) for(auto &it : vc_1) cin >> it;
 #define so(x3) sort((x3).begin(), (x3).end())
-#define rev(x3) reverse((x3).begin(), (x3).end())
+// #define rev(x3) reverse((x3).begin(), (x3).end())
 #define nl endl
 #define nb "\n"
 #define fast_IO ios_base::sync_with_stdio(false); cin.tie(NULL);
